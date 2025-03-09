@@ -36,6 +36,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Make a file manager and upload library of foods
+* [ ] Add a search method when reporting foods so you can find the food you want easier
+* [ ] Have more checks to prevent user errors in inputs resulting in program crashes
